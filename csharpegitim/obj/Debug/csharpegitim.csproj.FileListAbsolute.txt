@@ -1,0 +1,7 @@
+C:\Users\Soner\source\repos\csharpegitim\csharpegitim\bin\Debug\csharpegitim.exe.config
+C:\Users\Soner\source\repos\csharpegitim\csharpegitim\bin\Debug\csharpegitim.exe
+C:\Users\Soner\source\repos\csharpegitim\csharpegitim\bin\Debug\csharpegitim.pdb
+C:\Users\Soner\source\repos\csharpegitim\csharpegitim\obj\Debug\csharpegitim.csproj.AssemblyReference.cache
+C:\Users\Soner\source\repos\csharpegitim\csharpegitim\obj\Debug\csharpegitim.csproj.CoreCompileInputs.cache
+C:\Users\Soner\source\repos\csharpegitim\csharpegitim\obj\Debug\csharpegitim.exe
+C:\Users\Soner\source\repos\csharpegitim\csharpegitim\obj\Debug\csharpegitim.pdb
