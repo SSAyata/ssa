@@ -11,7 +11,9 @@ namespace csharpegitim // 2_değişkenler
         static void Main(string[] args)
         {
             // doubledegiskenler();
-           // chardegiskenler();
+            // chardegiskenler();
+            // klavyedenverigirisleri();
+            // intdegiskenler();
         }
 
         static void doubledegiskenler()
@@ -66,10 +68,41 @@ namespace csharpegitim // 2_değişkenler
         static void chardegiskenler()
         {
             #region
+            char symbol = 'S';
+            Console.Write(symbol);
+          
+            #endregion
+
+
+
+
+
+            Console.Read();
+        }
+
+        static void klavyedenverigirisleri()
+        {
+            #region
+            char symbol = 'S';
+            Console.Write(symbol);
+
+            #endregion
+
+
+
+
+
+            Console.Read();
+        }
+
+
+        static void intdegiskenler()
+        {
+            #region
             char gender;
             Console.Write("Lütfen Cinsiyet Seçiniz: ");
             gender = char.Parse(Console.ReadLine());
-            Console.Write("Seçtiğiniz Cinsiyet :"+gender);
+            Console.Write("Seçtiğiniz Cinsiyet :" + gender);
             #endregion
 
 
