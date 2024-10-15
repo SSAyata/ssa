@@ -1,0 +1,7 @@
+C:\Users\Soner\source\repos\csharpegitim\07_ForeachLoop\bin\Debug\07_ForeachLoop.exe.config
+C:\Users\Soner\source\repos\csharpegitim\07_ForeachLoop\bin\Debug\07_ForeachLoop.exe
+C:\Users\Soner\source\repos\csharpegitim\07_ForeachLoop\bin\Debug\07_ForeachLoop.pdb
+C:\Users\Soner\source\repos\csharpegitim\07_ForeachLoop\obj\Debug\07_ForeachLoop.csproj.AssemblyReference.cache
+C:\Users\Soner\source\repos\csharpegitim\07_ForeachLoop\obj\Debug\07_ForeachLoop.csproj.CoreCompileInputs.cache
+C:\Users\Soner\source\repos\csharpegitim\07_ForeachLoop\obj\Debug\07_ForeachLoop.exe
+C:\Users\Soner\source\repos\csharpegitim\07_ForeachLoop\obj\Debug\07_ForeachLoop.pdb
